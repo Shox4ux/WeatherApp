@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="default_numbers">100</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="min_temp">Min Temp.</string>
+    <string name="max_temp">Max Temp.</string>
+    <string name="day">Day 17</string>
+    <string name="night">Night 9</string>
+    <string name="feels_like">Feels like 16*</string>
+    <string name="main_temp">16*</string>
+    <string name="weather_type">Drizzle</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="temp_in_f">Temp In F</string>
+    <string name="demo_date">5 August, 22:00</string>
+    <string name="search_places">Search Places</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="todo">TODO</string>
+    <string name="no_network_connection">No Network Connection</string>
+    <string name="try_again">Try again</string>
+    <string name="fine_weather">Fine Weather</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="problem_with_network">Problem with network</string>
+
+
+</resources>
